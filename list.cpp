@@ -50,6 +50,7 @@ void list::Append(node* addNode)/////////////
 //__________________________________________________________________________________wherethisgoes
 node* list::wherethisgoes(node* n)
 {
+    // looks like you haven't done anyrhing here
 
 
 }
@@ -58,12 +59,13 @@ node* list::wherethisgoes(node* n)
 void list::insertsorted(node* i)
 {
 
+    // looks like you haven't done anyrhing here
 }
 
 //__________________________________________________________________________________sorting list
 void list::sort()
 {
-
+    // looks like you haven't done anyrhing here
 }
 
 //__________________________________________________________________________________search node
